@@ -1,4 +1,4 @@
-# Real---Estate
+#RealEstate
 This project is a responsive, modern real estate website built using React.js and Tailwind CSS. Designed for seamless property browsing, it provides a user-friendly experience for exploring and managing real estate listings.
 **Features:**
 Dynamic Property Listings: Property data is dynamically displayed using reusable React components, offering a clean and organized layout.
@@ -18,3 +18,12 @@ Real estate agencies looking to showcase property listings online.
 Individuals searching for properties with specific requirements.
 Developers seeking a React.js and Tailwind CSS-based template for a real estate project.
 This project is a perfect example of how modern web technologies can be combined to create a visually appealing and highly functional platform. Contributions and feedback are welcome! Fork the repository to get started or explore the live demo. 🏡✨
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-  b40a784 (Project Add on GitHub)
