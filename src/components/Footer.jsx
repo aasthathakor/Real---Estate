@@ -7,8 +7,10 @@ const Footer = () => {
         <div className=' container mx-auto flex flex-col md:flex-row justify-between items-start'>
             <div className=' w-full md:w-1/3 mb-8 md:mb-0'>
                 <img src={assets.logo_dark} alt='' />
-                <p className=' text-gray-400 mt-4'>once a a wise men tells a story. There was a dark forrest. The dark forest has a ocean, river and dark broad tree.
-                In that forest it has a lots of creatures, animals</p>
+                <p className=' text-gray-400 mt-4'>Our estate company is like that hidden forest, a vast landscape filled with opportunities,
+                 where every corner holds something extraordinary. Within our portfolio,
+                you'll find a collection of stunning properties,
+                 each as unique as the creatures and wonders of an enchanted world. </p>
             </div>
             <div className=' w-full md:w-1/5 mb-8 md:mb-0'>
                 <h3 className=' text-white text-lg font-bold mb-4'>Company</h3>
